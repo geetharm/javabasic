@@ -1,0 +1,7 @@
+# Eclipse settings files
+.settings/
+.classpath
+.project
+
+# compilation output
+bin/
