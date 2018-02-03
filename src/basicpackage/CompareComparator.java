@@ -5,7 +5,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.ArrayList;
 
-
 public class CompareComparator{
 
 	String name;
